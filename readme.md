@@ -3,6 +3,7 @@
 A **Streamlit** app to simulate future stock price movements using **Monte Carlo simulations**, based on historical stock data from [Yahoo Finance](https://finance.yahoo.com/) via `yfinance`.
 
 ---
+![App Screenshot](docs/quant_sim_v0-1_demo.png)
 
 ## 🚀 Features
 
