@@ -40,8 +40,8 @@ pip install plotly streamlit numpy pandas yfinance
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/monte-carlo-stock-simulator.git
-cd monte-carlo-stock-simulator
+git clone https://github.com/ONEWHOCANREAD/quant_sim
+cd quant_sim
 ```
 
 2. **Switch to the main branch** *(if not default)*
